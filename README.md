@@ -91,11 +91,5 @@ STEP 6: Use zscore of to remove outliers
 
 ![Screenshot 2025-03-08 113252](https://github.com/user-attachments/assets/8ddc208b-2b31-458f-8e98-9114c2a12aee)
 
-
-
-
-
-
-            <<include your coding and its corressponding output screen shots here>>
 # Result
-          <<include your Result here>>
+  Thus,The given data is read and data cleaning is performed

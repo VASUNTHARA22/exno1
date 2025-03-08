@@ -1,6 +1,8 @@
 # Exno:1
 Data Cleaning Process
 
+DATE:08.03.2025
+
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
@@ -92,4 +94,4 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2025-03-08 113252](https://github.com/user-attachments/assets/8ddc208b-2b31-458f-8e98-9114c2a12aee)
 
 # Result
-  Thus,The given data is read and data cleaning is performed
+  Thus,The given data is read and data cleaning process , outlier deduction and removal is performed successfully
